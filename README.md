@@ -1,4 +1,4 @@
 # cat-prompt
- {\__/} <br>
+ {\\__/} <br>
 ( • . •) <br>
 / > who doesn't want a cat prompt?
